@@ -44,6 +44,8 @@ Difficulty from 0 to 10 this was a 10 also frustration a 10 but with all this so
 
 <img width="1440" alt="Notetaker 5" src="https://user-images.githubusercontent.com/73844796/110039993-13332600-7d10-11eb-87a0-961c49876bdb.png">
 
-# Deployment URL:
+# Deployment URL's:
 
 * https://guarded-bastion-41842.herokuapp.com/
+
+* https://guarded-bastion-41842.herokuapp.com/notes

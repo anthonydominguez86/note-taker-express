@@ -10,9 +10,4 @@ module.exports = function(app) {
         res.sendFile(path.join(__dirname, "../public/assets/notes.html"));
     });
 
-    app.get("*", function(req, res) {
-        res.sendFile(path.join(__dirname, "../public/assets/index.html"));
-      });
-
-
 }
